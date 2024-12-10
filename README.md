@@ -1,4 +1,4 @@
-# Exercícios de vba:
+# Exercícios de VBA:
 
 ## Exercícios realizados durante a disciplina de Programação em Microinformática.
 
